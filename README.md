@@ -2,8 +2,9 @@
 
 # Xin chào, mình là Huỳnh Khánh! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=540&lines=AI+Student+%7C+Trí+Tuệ+Nhân+Tạo;Machine+Learning+%7C+Knowledge+Base+%7C+Data+Mining;Python+%7C+Java+%7C+C%23+.NET+%7C+Web;Building+CineAimane+🎬+Cinema+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=540&lines=AI+Student+%7C+Trí+Tuệ+Nhân+Tạo;YOLOv8+%7C+Machine+Learning+%7C+Deep+Learning;Python+%7C+NumPy+%7C+NetworkX+%7C+SymPy;Building+VietEye+👁️+AI+Vision+App)](https://git.io/typing-svg)
 
+*MSSV: 2411110084 · Khoa CNTT · Ngành Trí Tuệ Nhân Tạo*
 
 </div>
 
@@ -12,69 +13,56 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Sinh viên ngành **Trí Tuệ Nhân Tạo** – Khoa Công Nghệ Thông Tin
-- 🧠 Đã học: **Nhập môn TTNT**, **Lý thuyết đồ thị**, **CTDL & Giải thuật**, **Toán rời rạc**
+- 🧠 Đã học: **Nhập môn TTNT** · **Lý thuyết đồ thị** · **CTDL & Giải thuật** · **Toán rời rạc** · **Xác suất thống kê**
 - 🔬 Thực hành AI: Mạng Tính Toán, Lan Truyền Kích Hoạt với `sympy` + `networkx`
-- 👁️ Startup project: **VietEye** — AI Vision App với YOLOv8 + Android + ASP.NET Core
-- 🎬 Đồ án nhóm: **CineAimane** — Hệ thống rạp chiếu phim ASP.NET MVC + C#
-- 🌱 Đang học: **Java**, **Kotlin (Android)**, **Python nâng cao**, **Mobile App Dev**
-- 🔧 Tự làm tool cá nhân: `KHANH_KMAX_TOOL_V9.bat` (đã lên V9!) · `scrcpy` · Python scripts
-- 💼 Career planning: AI Engineer / Data Scientist trong ngành IT Việt Nam
+- 👁️ Startup project: **VietEye** — AI Vision App ứng dụng **YOLOv8** nhận diện đối tượng
+- 📚 Đang tự học: **Machine Learning**, **Deep Learning**, `scikit-learn`, `TensorFlow`
+- 💼 Mục tiêu: **AI Engineer / Data Scientist** tại Việt Nam
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ AI & Tech Stack
 
-**AI / Trí Tuệ Nhân Tạo**
+**AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=python&logoColor=black)
 
-**Lập trình**
+**Đang học thêm**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Ngôn ngữ lập trình**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web & Framework**
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
-## 🚀 Dự án nổi bật
-
-### 🎬 CineAimane — Cinema Management System
-> **Đồ án nhóm** · ASP.NET MVC · C# · SQL Server · Công nghệ .NET (IT2015)
-
-Hệ thống quản lý rạp chiếu phim đầy đủ chức năng:
-- 🎟️ Đặt vé & chọn ghế theo sơ đồ phòng chiếu (race condition safe)
-- 💳 Tích hợp thanh toán Stripe với xác thực bảo mật
-- 🛡️ Bảo mật: chống SQL Injection, timezone consistency
-- 👥 Phân quyền người dùng (Admin / User)
-
----
+## 🚀 AI Projects
 
 ### 👁️ VietEye — AI Vision Startup
-> **Dự án khởi nghiệp** · YOLOv8 · ASP.NET Core (C#) · Android (Kotlin)
+> **Dự án khởi nghiệp** · YOLOv8 · Python · Android (Kotlin) · ASP.NET Core
 
-Hệ thống nhận diện hình ảnh thông minh ứng dụng AI thực tế:
-- 🤖 Tích hợp mô hình **YOLOv8** (ONNX + PyTorch) để nhận diện đối tượng
-- 📱 **Android App** (Kotlin) — giao diện người dùng trên di động
-- ⚙️ **Backend ASP.NET Core** (C#) — Controllers, Models, Services đầy đủ
+Hệ thống nhận diện hình ảnh thông minh ứng dụng Computer Vision:
+- 🤖 Tích hợp mô hình **YOLOv8** (`.pt` + `.onnx`) để nhận diện đối tượng thời gian thực
+- 📱 **Android App** (Kotlin) — camera + inference trực tiếp trên thiết bị
+- ⚙️ **REST API Backend** (ASP.NET Core) — xử lý và trả kết quả nhận diện
 - 📊 Kèm tài liệu phân tích Product Manager, kế hoạch khởi nghiệp, Insight Report
 
 ---
@@ -82,19 +70,20 @@ Hệ thống nhận diện hình ảnh thông minh ứng dụng AI thực tế:
 ### 🧠 Mạng Tính Toán — Lan Truyền Kích Hoạt
 > **Nhập môn Trí Tuệ Nhân Tạo (IT2001)** · Python · SymPy · NetworkX
 
-Implement thuật toán **Activation Spreading** cho bài toán suy luận hình học:
-- Xây dựng mạng biến – công thức dưới dạng đồ thị kề
-- Tự động giải phương trình ký hiệu với `sympy`
+Implement thuật toán **Activation Spreading** cho bài toán suy luận tự động:
+- Xây dựng mạng biến – công thức dưới dạng đồ thị kề (adjacency matrix)
+- Tự động giải phương trình ký hiệu với `sympy.solve()`
 - Trực quan hóa mạng tính toán với `networkx` + `matplotlib`
+- Giải bài toán tam giác lớp 5: chu vi, diện tích, tìm ẩn từ điều kiện cho trước
 
 ---
 
-### 🔢 Strobogrammatic Numbers — Thuật toán số học
-> **Kỹ thuật lập trình (IT2002)** · Python · Algorithms
+### 🔢 Strobogrammatic Numbers — Algorithms
+> **Kỹ thuật lập trình (IT2002)** · Python · Number Theory
 
-Tìm các số strobogrammatic (bất biến khi xoay 180°) < 1.000.000:
-- Kết hợp kiểm tra số nguyên tố
-- Tìm số đối xứng là số nguyên tố
+Tìm các số strobogrammatic (bất biến khi xoay 180°) dưới 1.000.000:
+- Kết hợp kiểm tra số nguyên tố (Sieve + Trial Division)
+- Tìm số có số đối xứng là số nguyên tố
 
 ---
 
@@ -115,74 +104,47 @@ Tìm các số strobogrammatic (bất biến khi xoay 180°) < 1.000.000:
 
 ---
 
-## 📚 Lộ trình học — Ngành Trí Tuệ Nhân Tạo (HK1 → HK9)
+## 📚 Lộ trình AI — Ngành Trí Tuệ Nhân Tạo (HK1 → HK9)
 
 ```
-✅ HK 1  Nhập môn lập trình · Giải tích · Đại số tuyến tính · Anh văn I
+✅ Nền tảng
+   IT2001  Nhập môn Trí tuệ nhân tạo
+   IT2006  Lý thuyết đồ thị
+   IT2007  Cấu trúc dữ liệu & Giải thuật
+   IT2003  Toán rời rạc
+   IT1001  Xác suất thống kê
+   GE1024  Đại số tuyến tính
 
-✅ HK 2  Kỹ thuật lập trình    · Toán rời rạc
-         Kiến trúc máy tính    · Thiết kế web
+🔄 Đang học (HK5)
+   IT3019  Lập trình Python
+   IT2014  Lập trình Java
+   IT3005  Phát triển ứng dụng đa phương tiện (Mobile)
 
-✅ HK 3  Lý thuyết đồ thị      · Cấu trúc dữ liệu & Giải thuật
-         Lập trình HĐT (OOP)   · Cơ sở dữ liệu
+📌 Sắp tới (HK6–HK7)
+   IT3015  Trí tuệ nhân tạo nâng cao 🧠
+   IT3024  Phương pháp phân tích dữ liệu cơ bản 📊
+   IT3018  Hệ Cơ sở tri thức và ứng dụng 🧠
+   IT3038  Máy học (Machine Learning) 🤖
 
-✅ HK 4  Nhập môn TTNT 🧠      · Xác suất thống kê
-         HQTCSDL               · Công nghệ .NET
-
-🔄 HK 5  Lập trình Java        · Phát triển ứng dụng web
-         Lập trình Python      · Mobile App
-
-📌 HK 6  Nhập môn Hệ điều hành
-         [Tự chọn AI] Trí tuệ nhân tạo nâng cao 🧠
-         [Tự chọn AI] Phương pháp phân tích dữ liệu cơ bản 📊
-
-📌 HK 7  Mạng máy tính · An toàn & Bảo mật HTTT
-         [Tự chọn AI] Hệ Cơ sở tri thức và ứng dụng 🧠
-         [Tự chọn AI] Máy học (Machine Learning) 🤖
-
-📌 HK 8  Lập trình nhúng · Đồ án chuyên ngành · Thực tập doanh nghiệp
-         [Tự chọn AI] Khoa học dữ liệu (Data Science) 📊
-
-📌 HK 9  [Tự chọn AI] Khai thác dữ liệu lớn (Big Data Mining) 📊
-         [Tự chọn AI] Các chuyên đề ứng dụng TTNT 🧠
-         [Tự chọn AI] Kho dữ liệu và khai phá dữ liệu
-              Khóa luận cuối khóa 🎓
-```
-
----
-
-## 🤖 Lộ trình AI chuyên sâu
-
-```
-Nền tảng ──► IT2001 Nhập môn TTNT ✅
-             IT2006 Lý thuyết đồ thị ✅
-             IT2007 CTDL & Giải thuật ✅
-             IT1001 Xác suất thống kê ✅
-
-Nâng cao ──► IT3015 TTNT nâng cao 📌
-             IT3018 Hệ Cơ sở tri thức & ứng dụng 📌
-             IT3038 Máy học (Machine Learning) 📌
-
-Data     ──► IT3024 Phương pháp phân tích dữ liệu 📌
-             IT3016 Khoa học dữ liệu 📌
-             IT3017 Khai thác dữ liệu lớn 📌
-             IT3033 Kho dữ liệu & khai phá dữ liệu 📌
-
-Đỉnh cao ──► IT3028 Chuyên đề ứng dụng TTNT 📌
-             IT3032 Khóa luận cuối khóa 🎓
+📌 Chuyên sâu (HK8–HK9)
+   IT3016  Khoa học dữ liệu (Data Science) 📊
+   IT3017  Khai thác dữ liệu lớn (Big Data Mining) 📊
+   IT3028  Chuyên đề ứng dụng TTNT 🧠
+   IT3033  Kho dữ liệu & khai phá dữ liệu
+   IT3032  Khóa luận cuối khóa 🎓
 ```
 
 ---
 
 ## 🎯 Goals
 
-- [x] Hoàn thành đồ án CineAimane (Cinema System)
-- [x] Implement Mạng Tính Toán – Lan Truyền Kích Hoạt
-- [ ] Đẩy đầy đủ bài tập lên GitHub theo từng học kỳ
-- [ ] Hoàn thành tốt môn Máy học (Machine Learning)
-- [ ] Xây dựng project Data Science / AI cá nhân
+- [x] Implement Mạng Tính Toán – Lan Truyền Kích Hoạt (TTNT)
+- [x] Xây dựng VietEye — AI Vision App với YOLOv8
+- [ ] Hoàn thành môn Máy học (Machine Learning) xuất sắc
+- [ ] Xây dựng project Data Science cá nhân end-to-end
 - [ ] Tham gia Kaggle competition đầu tiên
-- [ ] Hoàn thành Khóa luận cuối khóa xuất sắc 🎓
+- [ ] Nghiên cứu và viết báo cáo về một ứng dụng AI thực tế
+- [ ] Hoàn thành Khóa luận cuối khóa liên quan đến AI 🎓
 
 ---
 
@@ -201,7 +163,7 @@ Data     ──► IT3024 Phương pháp phân tích dữ liệu 📌
 
 <div align="center">
 
-*"Trí tuệ nhân tạo không thay thế con người — nó khuếch đại trí tuệ của chúng ta."*
+*"Artificial Intelligence is the new electricity."* — Andrew Ng
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HUYNHKHANH2006.HUYNHKHANH2006)
 
