@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=540&lines=AI+Student+%7C+Trí+Tuệ+Nhân+Tạo;Machine+Learning+%7C+Knowledge+Base+%7C+Data+Mining;Python+%7C+Java+%7C+C%23+.NET+%7C+Web;Building+CineAimane+🎬+Cinema+System)](https://git.io/typing-svg)
 
-*MSSV: 2411110084 · Khoa CNTT · Ngành Trí Tuệ Nhân Tạo*
 
 </div>
 
