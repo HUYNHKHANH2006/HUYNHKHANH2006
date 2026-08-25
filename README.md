@@ -65,6 +65,17 @@ Hệ thống quản lý rạp chiếu phim đầy đủ chức năng:
 
 ---
 
+### 👁️ VietEye — AI Vision Startup
+> **Dự án khởi nghiệp** · YOLOv8 · ASP.NET Core (C#) · Android (Kotlin)
+
+Hệ thống nhận diện hình ảnh thông minh ứng dụng AI thực tế:
+- 🤖 Tích hợp mô hình **YOLOv8** (ONNX + PyTorch) để nhận diện đối tượng
+- 📱 **Android App** (Kotlin) — giao diện người dùng trên di động
+- ⚙️ **Backend ASP.NET Core** (C#) — Controllers, Models, Services đầy đủ
+- 📊 Kèm tài liệu phân tích Product Manager, kế hoạch khởi nghiệp, Insight Report
+
+---
+
 ### 🧠 Mạng Tính Toán — Lan Truyền Kích Hoạt
 > **Nhập môn Trí Tuệ Nhân Tạo (IT2001)** · Python · SymPy · NetworkX
 
