@@ -1,6 +1,6 @@
 <div align="center">
 
-# Xin chào, mình là Huỳnh Khánh! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a237e,100:4A90D9&height=200&section=header&text=Huỳnh%20Khánh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Student%20%7C%20Trí%20Tuệ%20Nhân%20Tạo%20%7C%20YOLOv8%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=540&lines=AI+Student+%7C+Trí+Tuệ+Nhân+Tạo;YOLOv8+%7C+Machine+Learning+%7C+Deep+Learning;Python+%7C+NumPy+%7C+NetworkX+%7C+SymPy;Building+VietEye+👁️+AI+Vision+App)](https://git.io/typing-svg)
 
@@ -166,5 +166,7 @@ Tìm các số strobogrammatic (bất biến khi xoay 180°) dưới 1.000.000:
 *"Artificial Intelligence is the new electricity."* — Andrew Ng
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HUYNHKHANH2006.HUYNHKHANH2006)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,50:1a237e,100:0D1117&height=120&section=footer)
 
 </div>
