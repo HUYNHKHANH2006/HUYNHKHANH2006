@@ -136,15 +136,71 @@ Tìm các số strobogrammatic (bất biến khi xoay 180°) dưới 1.000.000:
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals — 4 Trụ Cột Cạnh Tranh AI
 
-- [x] Implement Mạng Tính Toán – Lan Truyền Kích Hoạt (TTNT)
+> *Nguồn: Stanford AI Index 2026 · ITviec · TopDev · SecondTalent 2026*
+
+**🏆 Kaggle**
+- [ ] Đạt Top 10% trong một Kaggle competition *(= 1–2 năm kinh nghiệm thực tế)*
+- [ ] Tham gia **Zalo AI Challenge** & **VietAI Hackathon**
+
+**💻 GitHub Open Source**
 - [x] Xây dựng VietEye — AI Vision App với YOLOv8
-- [ ] Hoàn thành môn Máy học (Machine Learning) xuất sắc
-- [ ] Xây dựng project Data Science cá nhân end-to-end
-- [ ] Tham gia Kaggle competition đầu tiên
-- [ ] Nghiên cứu và viết báo cáo về một ứng dụng AI thực tế
+- [ ] Đóng góp Pull Request chất lượng vào **LangChain / HuggingFace**
+- [ ] Đẩy đủ project AI cá nhân end-to-end lên GitHub
+
+**📐 Toán nâng cao** *(rào cản tân nhân nhất của AI&KHDL)*
+- [ ] Nắm vững **Đại số tuyến tính** (nền tảng Transformer)
+- [ ] Nắm vững **Vi tích phân** (Backpropagation)
+- [ ] Nắm vững **Xác suất thống kê** (Generative AI)
+
+**📄 Paper & Research**
+- [ ] Đọc và tóm tắt 1 paper/tuần từ CVPR / NeurIPS / ICLR
+- [ ] Viết báo cáo nghiên cứu chuyên sâu về ứng dụng AI thực tế
 - [ ] Hoàn thành Khóa luận cuối khóa liên quan đến AI 🎓
+
+---
+
+## 🚀 Career Roadmap 2026–2030
+
+```
+2026 (Năm 3–4)  ──►  Nền tảng vững
+                      ✦ Hoàn thành Python · ML · Data Science (HK5–HK7)
+                      ✦ Tham gia Kaggle Vietnam Group
+                      ✦ Internship: VinAI / VNG GreenNode / MoMo BUILD
+
+2027–2028       ──►  Junior AI Engineer / Data Analyst
+                      ✦ Salary range: 15–35 triệu/tháng
+                      ✦ Stack: PyTorch · scikit-learn · MLflow · Docker
+                      ✦ Chứng chỉ: TensorFlow Developer · DeepLearning.AI
+
+2028–2029       ──►  Mid-level ML Engineer / AI Specialist
+                      ✦ Salary range: 35–85 triệu/tháng
+                      ✦ Stack: LangChain · HuggingFace · AWS SageMaker
+                      ✦ Chứng chỉ: NVIDIA NCA-GENL · Google Cloud ML Engineer
+
+2030+           ──►  Senior AI Engineer / MLOps / Research Scientist
+                      ✦ Salary: 85–180 triệu/tháng
+                      ✦ Offshore rate: $70–150/giờ (Toptal · Turing · Arc.dev)
+                      ✦ Target: Agentic AI · LLM · Computer Vision
+```
+
+---
+
+## 🌐 Cộng đồng & Chứng chỉ AI
+
+**Cộng đồng đang theo dõi**
+
+[![VietAI](https://img.shields.io/badge/VietAI-Community-blue?style=flat-square)](https://vietai.org)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Vietnam_Group-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-VN_Community-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+
+**Chứng chỉ mục tiêu**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-Certificate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-NCA--GENL-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-ML_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ML_Specialty-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
