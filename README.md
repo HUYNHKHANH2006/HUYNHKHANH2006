@@ -14,9 +14,11 @@
 - 🎓 Sinh viên ngành **Trí Tuệ Nhân Tạo** – Khoa Công Nghệ Thông Tin
 - 🧠 Đã học: **Nhập môn TTNT**, **Lý thuyết đồ thị**, **CTDL & Giải thuật**, **Toán rời rạc**
 - 🔬 Thực hành AI: Mạng Tính Toán, Lan Truyền Kích Hoạt với `sympy` + `networkx`
+- 👁️ Startup project: **VietEye** — AI Vision App với YOLOv8 + Android + ASP.NET Core
 - 🎬 Đồ án nhóm: **CineAimane** — Hệ thống rạp chiếu phim ASP.NET MVC + C#
-- 🌱 Đang học: **Java**, **Python nâng cao**, **Web App**, **Mobile App**
-- 📍 Hướng tới: **Machine Learning** · **Hệ cơ sở tri thức** · **Khoa học dữ liệu**
+- 🌱 Đang học: **Java**, **Kotlin (Android)**, **Python nâng cao**, **Mobile App Dev**
+- 🔧 Tự làm tool cá nhân: `KHANH_KMAX_TOOL_V9.bat` (đã lên V9!) · `scrcpy` · Python scripts
+- 💼 Career planning: AI Engineer / Data Scientist trong ngành IT Việt Nam
 
 ---
 
@@ -32,8 +34,10 @@
 **Lập trình**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Web & Framework**
 
